@@ -1,0 +1,19 @@
+{
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  "parser": "@typescript-eslint/parser",
+  "plugins": [
+    "solid",
+    "@typescript-eslint"
+  ],
+  "extends": [
+    "eslint:recommended",
+    "plugin:solid/typescript",
+    "plugin:@typescript-eslint/recommended"
+  ],
+  "rules": {    
+    "solid/jsx-no-undef": "off"
+  }
+}

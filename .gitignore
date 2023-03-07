@@ -8,6 +8,7 @@ auto-imports.d.ts
 
 # Production
 dist
+build
 
 # Variables
 .env.local

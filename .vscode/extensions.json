@@ -1,6 +1,10 @@
 {
   "recommendations": [
+    // Globals.
     "dbaeumer.vscode-eslint",
-    "voorjaar.windicss-intellisense"
+    "voorjaar.windicss-intellisense",
+
+    // Only for `/docs` package.
+    "astro-build.astro-vscode"
   ]
 }

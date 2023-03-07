@@ -22,6 +22,7 @@ jobs:
           vercel-org-id: ${{ secrets.VERCEL_ORGANIZATION_ID }}
           vercel-project-id: ${{ secrets.VERCEL_PROJECT_ID }} 
           github-comment: false
+          working-directory: ./app
           vercel-args: "--prod"
 
       - name: Update the GitHub Release
