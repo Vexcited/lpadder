@@ -18,7 +18,7 @@
     "localforage": "^1.10.0",
     "pako": "^2.1.0",
     "solid-headless": "^0.13.1",
-    "solid-js": "^1.9.2",
+    "solid-js": "^1.9.4",
     "solid-toast": "^0.3.5",
     "wavesurfer.js": "^7.8.6",
     "webmidi": "^3.1.11"
